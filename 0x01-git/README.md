@@ -1,2 +1,1 @@
-hello
-up_to_date
+hello world
